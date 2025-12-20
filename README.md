@@ -1,14 +1,14 @@
-🌞 KUSUM SARTHI — Solar Assistance Chatbot
+# 🌞 **KUSUM SARTHI — Solar Assistance Chatbot**
+---
+
 
 A smart, multilingual (Hindi + English) chatbot designed to answer queries about PM-KUSUM Scheme, especially focusing on Component-C (Grid-Connected Pump Solarisation).
 
 This chatbot helps farmers understand subsidy, eligibility, EMI, loan, land requirements, solar hours, document needs, tender charges, installation timelines, and agrovoltaic benefits — using simple, natural conversation.
 
-🚀 Live Demo
 
-📌 (Add once hosted — optional)
 
-🧠 Project Purpose
+# 🧠 Project Purpose
 
 KUSUM SARTHI has been built to support:
 
@@ -24,7 +24,8 @@ Quick conversational access to planning data
 
 It simplifies technical and policy information through intelligent rule-based response logic.
 
-✨ Key Features
+# ✨ Key Features
+
 ✔️ Multilingual Support
 
 Hindi
@@ -73,7 +74,7 @@ Simple, elegant chat interface with auto-scroll, mute mode, and typing assist.
 
 Keyword + intent engine ensures highly specific replies.
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 User → UI (React) → Intent Engine → Keyword Classifier → Response Mapper → Output + Speech
 
 ⚙️ Technology Stack
@@ -88,7 +89,7 @@ Version Control	Git + GitHub
 Language Runtime	Node.js
 Chat Logic	Rule-based keyword algorithm
 
-🧪 Testing Scope
+# 🧪 Testing Scope
 
 User queries tested for:
 
@@ -112,7 +113,7 @@ Installation timeline
 
 Eligibility confirmations
 
-🌿 Component-C Alignment
+# 🌿 Component-C Alignment
 
 The chatbot strongly covers Component-C through:
 
@@ -128,7 +129,7 @@ Land + capacity reasoning
 
 
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 🔹 API-based live subsidy rates
 🔹 Database-driven personalization
