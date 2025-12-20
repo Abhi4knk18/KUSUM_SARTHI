@@ -1,46 +1,137 @@
-# Getting Started with Create React App
+🌞 KUSUM SARTHI — Solar Assistance Chatbot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A smart, multilingual (Hindi + English) chatbot designed to answer queries about PM-KUSUM Scheme, especially focusing on Component-C (Grid-Connected Pump Solarisation).
 
-## Available Scripts
+This chatbot helps farmers understand subsidy, eligibility, EMI, loan, land requirements, solar hours, document needs, tender charges, installation timelines, and agrovoltaic benefits — using simple, natural conversation.
 
-In the project directory, you can run:
+🚀 Live Demo
 
-### `npm start`
+📌 (Add once hosted — optional)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🧠 Project Purpose
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+KUSUM SARTHI has been built to support:
 
-### `npm test`
+Farmers looking for PM-KUSUM solar information
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Government agricultural solar advisory
 
-### `npm run build`
+Rural solar awareness programs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Academic + industrial research
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Quick conversational access to planning data
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+It simplifies technical and policy information through intelligent rule-based response logic.
 
-### `npm run eject`
+✨ Key Features
+✔️ Multilingual Support
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Hindi
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+English
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+✔️ Voice Input Support
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Users can speak, not just type.
 
-## Learn More
+✔️ Intent-Based Responses for Topics
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Eligibility
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Cost Estimation
+
+Subsidy Model
+
+Land Calculation
+
+Loan & EMI
+
+Documents Needed
+
+Payback / ROI
+
+Sun-Hours / Energy Output
+
+Agrovoltaics (Farming under solar)
+
+Tender charges
+
+Installation time
+
+Do's & Don’ts
+
+Substation distance
+
+Component-C relevance
+
+✔️ Clean UI
+
+Simple, elegant chat interface with auto-scroll, mute mode, and typing assist.
+
+✔️ Robust Internal Logic
+
+Keyword + intent engine ensures highly specific replies.
+
+🏗️ System Architecture
+User → UI (React) → Intent Engine → Keyword Classifier → Response Mapper → Output + Speech
+
+⚙️ Technology Stack
+Category	Technology
+Frontend Framework	React (TypeScript)
+UI Styling	CSS3
+State Management	React Hooks
+Voice API	Web Speech Recognition API
+Logging	Custom logEvent() handler
+Build Tool	Vite / CRA (based on project)
+Version Control	Git + GitHub
+Language Runtime	Node.js
+Chat Logic	Rule-based keyword algorithm
+
+🧪 Testing Scope
+
+User queries tested for:
+
+Hindi keywords
+
+English keywords
+
+Misspellings
+
+Mixed language text
+
+Voice inputs
+
+EMI-based queries
+
+Farming impact queries
+
+Tender fee inputs
+
+Installation timeline
+
+Eligibility confirmations
+
+🌿 Component-C Alignment
+
+The chatbot strongly covers Component-C through:
+
+Grid-connected solar pump information
+
+Farmer eligibility
+
+EMI + loan structure
+
+Substation range
+
+Land + capacity reasoning
+
+
+
+📌 Future Enhancements
+
+🔹 API-based live subsidy rates
+🔹 Database-driven personalization
+🔹 AI intent model upgrade (ML/NLP)
+🔹 Offline mode support
+🔹 Cloud dashboard for analytics
