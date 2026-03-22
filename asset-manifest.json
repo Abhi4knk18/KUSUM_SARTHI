@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KUSUM_SARTHI/static/css/main.c0c697e8.css",
+    "main.js": "/KUSUM_SARTHI/static/js/main.f852ae4f.js",
+    "static/media/Bg_image.jpg": "/KUSUM_SARTHI/static/media/Bg_image.dd4e3bfb2e6a03fc54c5.jpg",
+    "index.html": "/KUSUM_SARTHI/index.html",
+    "main.c0c697e8.css.map": "/KUSUM_SARTHI/static/css/main.c0c697e8.css.map",
+    "main.f852ae4f.js.map": "/KUSUM_SARTHI/static/js/main.f852ae4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c697e8.css",
+    "static/js/main.f852ae4f.js"
+  ]
+}
