@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KUSUM_SARTHI/static/css/main.de574f8d.css",
-    "main.js": "/KUSUM_SARTHI/static/js/main.e3b38a7e.js",
+    "main.js": "/KUSUM_SARTHI/static/js/main.3112a196.js",
     "static/media/Bg_image.jpg": "/KUSUM_SARTHI/static/media/Bg_image.dd4e3bfb2e6a03fc54c5.jpg",
     "index.html": "/KUSUM_SARTHI/index.html",
     "main.de574f8d.css.map": "/KUSUM_SARTHI/static/css/main.de574f8d.css.map",
-    "main.e3b38a7e.js.map": "/KUSUM_SARTHI/static/js/main.e3b38a7e.js.map"
+    "main.3112a196.js.map": "/KUSUM_SARTHI/static/js/main.3112a196.js.map"
   },
   "entrypoints": [
     "static/css/main.de574f8d.css",
-    "static/js/main.e3b38a7e.js"
+    "static/js/main.3112a196.js"
   ]
 }
